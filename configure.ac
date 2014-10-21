@@ -16,8 +16,8 @@ dnl ###########################################################################
 
 PKG_CHECK_MODULES(GREETER, [
     liblightdm-gobject-1
-    gtk+-2.0
-    webkit-1.0
+    gtk+-3.0
+    webkitgtk-3.0
     dbus-glib-1
 ])
 
